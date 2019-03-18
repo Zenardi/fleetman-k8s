@@ -7,3 +7,14 @@ The system architeture:
 
 Running system using AWS
 ![alt](sample.png)
+
+To visualize the log and traffic flow I also implement Kibana and Grafana for a monitorig solution.
+![alt](Grafana1.png)
+
+Cluster Monitoring - Utilization, Saturantion and Errors (USE Method)
+![alt](Grafana2.png)
+
+Cluster Monitoring - Utilization, Saturantion and Errors (USE Method). CPU Saturation in a node.
+![alt](Grafana3.png)
+
+
